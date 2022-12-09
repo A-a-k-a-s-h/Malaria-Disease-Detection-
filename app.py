@@ -29,7 +29,7 @@ def preprocessed_image(file):
 def main():
     st.title('CNN for Classification Malaria Cells')
     st.sidebar.title('Web Apps using Streamlit')
-    st.sidebar.text(""" Project to visualize the CNN layers on malaria-infected image by Aakash Haridas""")
+    st.sidebar.text(""" Project to detect the malaria-infected image using CNN Algorithm - by Aakash Haridas""")
     menu = {1:"Home",2:"Perform Prediction"}
     def format_func(option):
         return menu[option]
