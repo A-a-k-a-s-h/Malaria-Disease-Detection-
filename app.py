@@ -17,7 +17,7 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 
 @st.cache(allow_output_mutation=True,suppress_st_warning=True)
 def load_cnn1():
-    model_ = load_model('/content/my_model.h5')
+    model_ = load_model('my_model.h5')
     return model_
 
 def preprocessed_image(file):
