@@ -2,8 +2,6 @@ opencv-python-headless
 numpy
 streamlit
 matplotlib 
-os
 datetime
 itertools
 h5py
-io
