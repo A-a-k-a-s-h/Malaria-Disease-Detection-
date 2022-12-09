@@ -4,3 +4,4 @@ streamlit
 matplotlib 
 datetime
 h5py
+tensorflow
