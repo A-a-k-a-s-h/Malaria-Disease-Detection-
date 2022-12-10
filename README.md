@@ -1,4 +1,4 @@
-# Deep Learning Model for Malaria Prediction
+# Deep Learning Model for Malaria Prediction - Aakash Haridas
 ## Introduction 
 Malaria is a significant burden on our health care system and it is a major cause of death in many developing countries. It is endemic in some parts of the world which means that the disease is regularly found in the region. Therefore, early testing is necessary to detect malaria and save lives. Thus, it gives us the motivation to make malaria diagnosis more faster and effective. A specialized technology proves essential to combat this problem. The Deep learning approaches have been successful in diagnosis of a disease.
 
