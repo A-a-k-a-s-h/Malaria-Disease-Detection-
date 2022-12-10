@@ -7,9 +7,7 @@ The objective of Malaria Disease Detection is to build the Deep learning model t
 
 ## Dataset
 This Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
-The dataset contains 2 folders
-*Infected
-*Uninfected
+The dataset contains 2 folders : **Infected** and Uninfected
 And a total of 27,558 images.
 
 ## Data Flow Diagram
