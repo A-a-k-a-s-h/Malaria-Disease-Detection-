@@ -4,3 +4,8 @@ Malaria is a significant burden on our health care system and it is a major caus
 
 ## Objective
 The objective of Malaria Disease Detection is to build the Deep learning model to detect whether the person is infected with Malaria disease or not using the blood cell images of the patient. The aim of the project is to address the challenges in the existing system by automating the process of Malaria Disease Detection using Deep Learning and Image Processing.
+
+## Accessibility
+The Malaria Detection Model can be accessed via the streamlit https://a-a-k-a-s-h-malaria-disease-detection--app-xqch3q.streamlit.app/ 
+And the Model has been built as Mobile Application using GoNative App Builder
+
