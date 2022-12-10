@@ -12,6 +12,9 @@ The dataset contains 2 folders
 *Uninfected
 And a total of 27,558 images.
 
+## Data Flow Diagram
+![image](https://user-images.githubusercontent.com/95409070/206864532-f20cb551-abb5-473d-9d3f-1f45b8f94374.png)
+
 ## Accessibility
 The Malaria Detection Model can be accessed via the streamlit https://a-a-k-a-s-h-malaria-disease-detection--app-xqch3q.streamlit.app/ 
 and the Model has been built as Mobile Application using GoNative App Builder
